@@ -62,7 +62,7 @@ git clone git@github.com:devayresrouxj/rocketseat-fundamentos-python.git
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd fundamentos-python
+cd rocketseat-fundamentos-python
 ```
 
 3. Execute os arquivos Python:
